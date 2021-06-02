@@ -31,7 +31,7 @@ Bot: You’re welcome.
 (a few minutes later) 
 User gets the following text message :
 
-![image](https://user-images.githubusercontent.com/57378953/120507610-922a1000-c38c-11eb-8ace-111bbcb7f864.png)
+![image](https://user-images.githubusercontent.com/57378953/120510712-4fb60280-c38f-11eb-8545-deb9b185fad6.png)
 
 
 
